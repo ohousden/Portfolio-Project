@@ -1,0 +1,96 @@
+body {
+	font-family: 'Dosis', sans-serif;
+	background-color: white ;
+}
+
+hr {
+	display: block;
+    height: 1px;
+    border: 0;
+    border-top: 4px solid #BCBBBB;
+    margin-bottom: 1em;
+    margin-top: 0;
+    padding: 0;
+}
+
+img, embed, object, video {
+	max-width: 100%;
+}
+
+.title-logo {
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+.title-name {
+	text-align: right;
+	color: #505050;
+	font-size: 55px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.main-image {
+	padding:1px;
+}
+
+.project-image {
+	padding:1px;
+	border:1px solid #BCBBBB;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.title-desc {
+	text-align: right;
+	color: #505050;
+	font-size: 25px;
+	margin: 0px;
+}
+
+.featured {
+	color: #BCBBBB;
+	font-weight: 300;
+	font-size: 50px;
+	margin-bottom: 10px;
+	margin-top: 25px;
+	padding-left: 20px
+}
+
+.work-link {
+	font-weight: 200;
+	padding-bottom: 15px;
+	font-size: 25px;
+	margin-top: 0;
+	max-width: 100%;
+}
+
+.work-name {
+	font-weight: 800;
+	font-size: 35px;
+	margin-top: 8px;
+	max-width: 100%;
+}
+
+.work-info {
+	color: #505050;
+	padding-left: 8px;
+	padding-right: 8px;
+	text-align: center;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.modal-text {
+	color: #505050;
+	font-weight: 300;
+	font-size: 24px;
+	text-align: center;
+}
+
+.footer-links {
+	color: #505050;
+	font-size: 12px;
+	text-align: center;
+}
